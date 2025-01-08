@@ -1,5 +1,5 @@
 {
-  "name": "gazzayeatman/silverstripe-gtm",
+  "name": "gorriecoe/silverstripe-gtm",
   "description": "A simple module that adds google tag manager snippets to silverstripe.",
   "type": "silverstripe-vendormodule",
   "license": "BSD-3-Clause",
